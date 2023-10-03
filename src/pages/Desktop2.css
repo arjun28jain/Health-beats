@@ -1,0 +1,89 @@
+.desktop-2-child {
+  position: absolute;
+  top: 201px;
+  left: 403.83px;
+  border-radius: 37px;
+  width: 714px;
+  height: 700.01px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: -115px;
+  left: 969px;
+  border-radius: 50%;
+  background-color: #7dd588;
+  width: 611px;
+  height: 586px;
+}
+.desktop-2-inner {
+  top: 740px;
+  left: -152px;
+  width: 526px;
+  height: 516px;
+}
+.lg1-1-icon1 {
+  position: absolute;
+  top: 14px;
+  left: 1300px;
+  width: 121px;
+  height: 126px;
+  object-fit: cover;
+}
+.arjun-jain {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.arjun-jain,
+.span {
+  letter-spacing: 0.05em;
+}
+.span1 {
+  letter-spacing: 0.1em;
+}
+.yrs {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.p {
+  margin: 0;
+  letter-spacing: 0.05em;
+}
+.arjun-jain-male-container {
+  position: absolute;
+  top: 454px;
+  left: calc(50% - 149px);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 299px;
+  height: 270px;
+}
+.user-details {
+  position: absolute;
+  top: 364px;
+  left: 538px;
+  text-decoration: underline;
+  letter-spacing: 0.1em;
+  font-family: "Inria Serif";
+  color: #001f3f;
+}
+.polygon-icon {
+  position: absolute;
+  top: 71px;
+  left: 575.1px;
+  border-radius: 37px;
+  width: 300px;
+  height: 299.01px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: #68cb7b;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: 52px;
+  color: rgba(0, 31, 63, 0.95);
+  font-family: "Inria Sans";
+}

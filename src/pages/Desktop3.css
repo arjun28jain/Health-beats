@@ -1,0 +1,206 @@
+.desktop-3-child,
+.desktop-3-item {
+  position: absolute;
+  border-radius: 50%;
+}
+.desktop-3-child {
+  top: 744px;
+  left: 618px;
+  background-color: rgba(217, 217, 217, 0.14);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  width: 204px;
+  height: 199px;
+}
+.desktop-3-item {
+  top: -115px;
+  left: 969px;
+  background-color: #7dd588;
+  width: 611px;
+  height: 586px;
+}
+.desktop-3-inner,
+.ellipse-div {
+  position: absolute;
+  border-radius: 50%;
+  background-color: rgba(217, 217, 217, 0.14);
+  box-sizing: border-box;
+}
+.desktop-3-inner {
+  top: 735px;
+  left: 608px;
+  box-shadow: 0 1px 12px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid #fff;
+  width: 224px;
+  height: 218px;
+}
+.ellipse-div {
+  top: 753px;
+  left: 626px;
+  border: 2px solid #fff;
+  width: 187px;
+  height: 182px;
+}
+.rectangle-icon {
+  position: absolute;
+  height: 14.16%;
+  width: 6.53%;
+  top: 75.29%;
+  right: 46.74%;
+  bottom: 10.55%;
+  left: 46.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.desktop-3-child1 {
+  position: absolute;
+  top: 740px;
+  left: -152px;
+  border-radius: 50%;
+  background-color: #7dd588;
+  width: 526px;
+  height: 516px;
+}
+.rectangle-div {
+  top: 435px;
+  left: 141px;
+  background-color: #d9d9d9;
+}
+.desktop-3-child2,
+.desktop-3-child3,
+.desktop-3-child4,
+.rectangle-div {
+  position: absolute;
+  border-radius: 56px;
+  width: 564px;
+  height: 112px;
+}
+.desktop-3-child2 {
+  top: 99px;
+  left: 141px;
+  background-color: #d9d9d9;
+}
+.desktop-3-child3,
+.desktop-3-child4 {
+  top: 281px;
+  left: 770px;
+  background-color: rgba(0, 31, 63, 0.38);
+}
+.desktop-3-child4 {
+  top: 602px;
+  left: 1026px;
+  width: 308px;
+}
+.lg1-1-icon3 {
+  position: absolute;
+  top: 14px;
+  left: 1300px;
+  width: 121px;
+  height: 126px;
+  object-fit: cover;
+}
+.click-to-speak {
+  position: absolute;
+  top: 960px;
+  left: 573px;
+  font-size: 42px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 319px;
+  height: 72px;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 6.05%;
+  width: 5.42%;
+  top: 44.92%;
+  right: 53.4%;
+  bottom: 49.02%;
+  left: 41.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  top: 12.11%;
+  bottom: 81.84%;
+}
+.vector-icon3 {
+  top: 29.88%;
+  right: 9.72%;
+  bottom: 64.06%;
+  left: 84.86%;
+}
+.im-sorry-to {
+  margin: 0;
+}
+.im-sorry-to-container,
+.namaste-arjun-im {
+  position: absolute;
+  top: 444px;
+  left: 191px;
+  letter-spacing: 0.05em;
+}
+.namaste-arjun-im {
+  top: 108px;
+  display: inline-block;
+  width: 372px;
+}
+.div1,
+.namaste-ive-been-container,
+.nidhibot,
+.nidhibot1 {
+  position: absolute;
+  top: 290px;
+  left: 820px;
+  letter-spacing: 0.05em;
+  color: #fff;
+}
+.div1,
+.nidhibot,
+.nidhibot1 {
+  top: 575px;
+  left: 1074px;
+  font-size: 95px;
+}
+.nidhibot,
+.nidhibot1 {
+  top: 52px;
+  left: 185px;
+  font-size: 36px;
+  font-family: Inter;
+  color: #001f3f;
+  filter: blur(1px);
+}
+.nidhibot1 {
+  top: 390px;
+}
+.image-1-icon,
+.image-2-icon {
+  position: absolute;
+  top: 124px;
+  left: 33px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 452px;
+}
+.desktop-3 {
+  position: relative;
+  background-color: #68cb7b;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: 26px;
+  color: #000;
+  font-family: "Inria Serif";
+}

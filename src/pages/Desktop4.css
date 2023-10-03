@@ -1,0 +1,106 @@
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  top: -115px;
+  left: 969px;
+  border-radius: 50%;
+  background-color: #7dd588;
+  width: 611px;
+  height: 586px;
+}
+.desktop-4-item {
+  top: 740px;
+  left: -152px;
+  width: 526px;
+  height: 516px;
+}
+.lg1-1-icon2 {
+  position: absolute;
+  top: 14px;
+  left: 1300px;
+  width: 121px;
+  height: 126px;
+  object-fit: cover;
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 140px;
+  left: 172px;
+  border-radius: 76px;
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 2px 4px 5px 6px rgba(0, 0, 0, 0.25);
+  width: 1096px;
+  height: 432px;
+  opacity: 0.8;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 71px;
+  background-color: rgba(0, 31, 63, 0.88);
+  box-shadow: 0 4px 6px 8px rgba(0, 0, 0, 0.25);
+  width: 651px;
+  height: 142px;
+}
+.consult-to-doctor {
+  position: absolute;
+  top: 41px;
+  left: 105px;
+  letter-spacing: 0.05em;
+}
+.image-3-icon,
+.rectangle-parent {
+  position: absolute;
+  top: 616px;
+  left: 394px;
+  width: 651px;
+  height: 142px;
+}
+.image-3-icon {
+  top: 897px;
+  left: 1045px;
+  border-radius: 50.5px;
+  width: 369px;
+  height: 101px;
+  object-fit: cover;
+}
+.according-to-the {
+  margin-block-start: 0;
+  margin-block-end: 17px;
+}
+.should-consult-a {
+  margin: 0;
+}
+.according-to-the-container {
+  position: absolute;
+  top: 221px;
+  left: 273px;
+  letter-spacing: 0.05em;
+  color: #000;
+  white-space: pre-wrap;
+}
+.vector-icon {
+  position: absolute;
+  height: 8.01%;
+  width: 7.15%;
+  top: 43.85%;
+  right: 16.81%;
+  bottom: 48.14%;
+  left: 76.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-4 {
+  position: relative;
+  background-color: #68cb7b;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: 50px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
