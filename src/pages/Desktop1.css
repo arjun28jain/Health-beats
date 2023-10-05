@@ -11,21 +11,21 @@
 .desktop-1-item {
   top: 749px;
   left: -161px;
-  width: 526px;
-  height: 516px;
+  width: 450;
+  height: 430px;
 }
 .lg1-1-icon {
   position: absolute;
-  top: 326px;
+  top: 222px;
   left: 939px;
-  width: 364px;
-  height: 371px;
-  object-fit: cover;
+  width: 394px;
+  height: 391px;
+  object-fit: contain;
 }
 .desktop-1-inner {
   position: absolute;
-  top: 298px;
-  left: 148px;
+  top: 200px;
+  left: 38px;
   border-radius: 81px;
   background-color: rgba(217, 217, 217, 0.38);
   box-shadow: 0 4px 21px 3px rgba(0, 0, 0, 0.25);
@@ -34,6 +34,11 @@
 }
 .welcome-to {
   margin: 0;
+  position: relative;
+  left: -10px;
+  top:-80px;
+  width: 460px;
+  text-align: center;
 }
 .welcome-to-swasthya-container {
   position: absolute;
@@ -45,28 +50,32 @@
 }
 .place-your-thumbprint-container {
   position: absolute;
-  top: 359px;
-  left: 232px;
+  top: 329px;
+  left: 132px;
   font-weight: 500;
   white-space: pre-wrap;
 }
 .background-copy-1 {
   position: absolute;
-  top: 563px;
-  left: 396px;
+  top: 453px;
+  left: 296px;
   width: 117px;
   height: 117px;
   object-fit: cover;
 }
-.div,
+
+.background-copy-1:hover{
+  transform-style: preserve-3d;
+}
+
 .get-started {
   position: absolute;
   letter-spacing: 0.05em;
+  left: 13px;
 }
 .get-started {
-  top: 475px;
-  left: 331px;
-  font-family: "Inria Serif";
+  top: 355px;
+  left: 230px;
   -webkit-text-stroke: 1px #001f3f;
 }
 .div {
