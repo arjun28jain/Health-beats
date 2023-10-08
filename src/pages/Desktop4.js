@@ -17,11 +17,9 @@ const Desktop4 = () => {
         <b className="consult-to-doctor">Consult to doctor</b>
       </div>
       <img className="image-3-icon" alt="" src="/image-3@2x.png" />
-      <b className="according-to-the-container">
-        <p className="according-to-the">{`*According to the symptoms you are `}</p>
-        <p className="according-to-the"> suffering with typhoid.</p>
-        <p className="should-consult-a">*Should consult a physician.</p>
-      </b>
+      <p className="according-to-the-container">
+        <p className="according-to-the" style={{width:'850px', textAlign:'justify', fontSize:'35px', wordSpacing:'1px', left:'50px', position:'relative', top:'-50px', fontFamily:'inherit', fontStyle:'bold'}}>According to the symptoms you are suffering with typhoid. Should consult a physician.</p>
+      </p>
       <img className="vector-icon" alt="" src="/vector.svg" />
     </div>
   );
